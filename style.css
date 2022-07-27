@@ -5,6 +5,8 @@ body {
 
 h1{
     font-family: Geneva;
+    margin-bottom: 50px;
+    text-shadow: 5px 5px green;
 }
 
 h3{
@@ -25,4 +27,15 @@ a{
 }
  a:hover{
    text-decoration: line-through wavy; 
+ }
+
+ img {
+    display:block;
+    height:20%;
+    border:lightseagreen;
+   border-radius: .75em;
+   box-shadow: 20px 15px red;
+ }
+ .subheading {
+    border-bottom: underline;
  }
