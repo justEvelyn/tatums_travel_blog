@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+}
+
+h1{
+    font-family: Geneva;
+}
+
+h3{
+    font-family: Geneva;
+}
+
+header{
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+
+}
+
+a{
+    color: lightseagreen;
+
+}
+ a:hover{
+   text-decoration: line-through wavy; 
+ }
